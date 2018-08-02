@@ -202,7 +202,7 @@ namespace Hotels.Controllers
                 {
                     ApiStatus = ApiStatus.Success,
                     StatusCode = 200,
-                    StatusMessage = "Rooms booked!"
+                    StatusMessage = "Hotel Deleted!"
                 };
             }
             catch(IDNotFoundException exception)
