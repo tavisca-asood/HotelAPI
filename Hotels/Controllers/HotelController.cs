@@ -63,7 +63,7 @@ namespace Hotels.Controllers
                 {
                     hotelsResponse = new List<Hotel>()
                     {
-                        new Hotel(hotel)
+                       hotel
                     }
                     ,
                     status = new Status()
