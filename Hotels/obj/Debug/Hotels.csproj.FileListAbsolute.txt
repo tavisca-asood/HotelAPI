@@ -59,8 +59,11 @@ c:\users\asood\source\repos\Hotels\Hotels\bin\System.Net.Http.Formatting.xml
 c:\users\asood\source\repos\Hotels\Hotels\bin\System.Web.Http.xml
 c:\users\asood\source\repos\Hotels\Hotels\bin\System.Web.Http.WebHost.xml
 c:\users\asood\source\repos\Hotels\Hotels\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-c:\users\asood\source\repos\Hotels\Hotels\obj\Debug\Hotels.csprojAssemblyReference.cache
 c:\users\asood\source\repos\Hotels\Hotels\obj\Debug\Hotels.csproj.CoreCompileInputs.cache
 c:\users\asood\source\repos\Hotels\Hotels\obj\Debug\Hotels.csproj.CopyComplete
 c:\users\asood\source\repos\Hotels\Hotels\obj\Debug\Hotels.dll
 c:\users\asood\source\repos\Hotels\Hotels\obj\Debug\Hotels.pdb
+C:\Users\asood\source\repos\Hotels\Hotels\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\asood\source\repos\Hotels\Hotels\bin\Swashbuckle.Core.dll
+C:\Users\asood\source\repos\Hotels\Hotels\bin\WebActivatorEx.dll
+C:\Users\asood\source\repos\Hotels\Hotels\bin\Hotels.xml
